@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  une partie modifiée de code source est qur la branche master 
+=======
+branche_examen_td2 est la branche des fonctions
+>>>>>>> branche-examen_d2
